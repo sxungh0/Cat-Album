@@ -1,6 +1,6 @@
 # Cat Album
 
-고양이 앨범 홈페이지
+고양이 말풍선 짤이 있는 앨범 홈페이지
 
 ![image](https://user-images.githubusercontent.com/109999625/180909832-c937e6e5-d6b8-43df-a3da-0980ec4dc160.png)
 
